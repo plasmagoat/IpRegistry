@@ -1,0 +1,6 @@
+@Danelec.IpRegistry.Server_HostAddress = http://localhost:5242
+
+GET {{Danelec.IpRegistry.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
